@@ -1,0 +1,14 @@
+name: SmoothBlocks
+main: com.arrayprolc.smoothblocks.Main
+version: 1.0
+description: >
+             Makes the game smoother.
+commands:
+  fall:
+    description: Toggles the Fall tool.
+  ghost:
+    description: Toggles the Ghost tool.
+  wireframe:
+    description: Toggles the Wireframe tool.
+  sb:
+    description: Pick a tool.

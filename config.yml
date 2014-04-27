@@ -1,0 +1,7 @@
+# SmoothBlocks configuration file
+
+#Should explosions create FallingBlocks?
+do-fallingsand-explosions: true
+
+#Should explosions create block-break particles?
+do-particle-explosions: true
